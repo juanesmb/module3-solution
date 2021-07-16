@@ -1,0 +1,19 @@
+.comName
+{
+    font-family: Impact, 'Arial Narrow Bold';
+    font-size: 40px;
+}
+
+#title,h2
+{
+    font-family: cursive;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.paragraph
+{
+    background-color: darkgrey;
+    font-family: cursive;
+    
+}
